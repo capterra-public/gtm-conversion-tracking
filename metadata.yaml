@@ -1,5 +1,5 @@
 homepage: "https://www.gartner.com/en/digital-markets"
 documentation: "https://www.gartner.com/ngw/globalassets/en/digital-markets/documents/conversion-tracking-guide.pdf"
 versions:
-  - sha: edfd63319968cc9fea0c58b798a2a81345a4b77e
+  - sha: 30b0baeb43add8808ba7d6dc6399989b09d5c2d0
     changeNotes: Initial release
